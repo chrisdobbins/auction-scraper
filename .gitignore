@@ -2,3 +2,4 @@
 token.txt
 *.swp
 check_high_bidder.sh
+place_bid.sh
