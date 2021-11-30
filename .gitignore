@@ -1,0 +1,4 @@
+.credentials
+token.txt
+*.swp
+check_high_bidder.sh
